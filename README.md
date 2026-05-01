@@ -20,5 +20,5 @@ View your app in AI Studio: https://ai.studio/apps/3d54bff0-1688-429c-af9f-5f008
    `npm run dev`
 
    
-# © 2024 Khabitha AI. All rights reserved.
-# Developed & Owned by Kabita Biswash & Priyangshu Sarkar.
+© 2024 Khabitha AI. All rights reserved.
+Developed & Owned by Kabita Biswash & Priyangshu Sarkar.
