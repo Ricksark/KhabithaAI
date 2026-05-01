@@ -1,0 +1,2 @@
+# KhabithaAI
+Copyright KhabithaAI
