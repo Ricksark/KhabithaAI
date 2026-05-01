@@ -1,0 +1,6 @@
+{
+  "name": "Khabitha AI",
+  "description": "A multi-modal AI assistant powered by Gemini 3.0, supporting text chat, vision analysis, and image generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
